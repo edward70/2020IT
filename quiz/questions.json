@@ -1,0 +1,110 @@
+[
+    [
+        "What is the correct translation for 'Caecilius est in horto.'?",
+        [
+            "Caecilius is in the garden.",
+            "Caecilius is in the study.",
+            "Metella is in the kitchen.",
+            "Cerberus barks."
+        ],
+        0,
+        "q1.gif"
+    ],
+    [
+        "What is the correct translation for 'Metella shouted.'?",
+        [
+            "Metella clamabat.",
+            "Metella clamor audit.",
+            "Metella clamavit.",
+            "Caecilius est in tablinum."
+        ],
+        2,
+        "q2.gif"
+    ],
+    [
+        "What is the correct translation for 'The old man was carrying the ring.'?",
+        [
+            "senes dormiebant.",
+            "senex anulum portabat.",
+            "senex anulus habet.",
+            "senex est avarus."
+        ],
+        1,
+        "ring.gif"
+    ],
+    [
+        "What is the correct translation for 'Actors are in the city.'?",
+        [
+            "actores per portam ruunt.",
+            "Metella actores salutat.",
+            "Caecilius funambulus spectat.",
+            "actores sunt in urbe."
+        ],
+        3,
+        "actor.gif"
+    ],
+    [
+        "What case is the word 'anulum' in?",
+        [
+            "Nominative",
+            "Ablative",
+            "Locative",
+            "Accusative"
+        ],
+        3,
+        "ring.gif"
+    ],
+    [
+        "What is the correct translation for 'Grumio nearly killed Cerberus.'?",
+        [
+            "Grumio paene necavit Cerberus.",
+            "Cerberus paene necavit Grumio.",
+            "Caecilius Cerberum vituperabat.",
+            "actores sunt necaverunt canes."
+        ],
+        0,
+        "cerberus.gif"
+    ],
+    [
+        "What is the correct translation for 'Metella is angry.'?",
+        [
+            "Metella est lacrimabat.",
+            "Melissa et Metella inquit.",
+            "Metella est irata.",
+            "Metella ridet."
+        ],
+        2,
+        "q2.gif"
+    ],
+    [
+        "What is the correct translation for 'The merchants were dining.'?",
+        [
+            "mercatores est occupatus.",
+            "mercatores cenabant.",
+            "Grumio mercatores vituperat.",
+            "mercatores ambulant."
+        ],
+        1
+    ],
+    [
+        "What is the correct translation for 'The old men also were snoring'?",
+        [
+            "senes stertit.",
+            "surgibant senes.",
+            "senes quoque stertibant.",
+            "senex quoque stertit."
+        ],
+        2
+    ],
+    [
+        "What is the correct translation for 'The dog jumps and barks.'?",
+        [
+            "canis salit et latrat.",
+            "clemens canem salutat.",
+            "Cerberus est iratus.",
+            "Cerberus salit et stant."
+        ],
+        0,
+        "cerberus.gif"
+    ]
+]
