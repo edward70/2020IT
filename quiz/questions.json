@@ -57,10 +57,10 @@
     [
         "What is the correct translation for 'Grumio nearly killed Cerberus.'?",
         [
-            "Grumio paene necavit Cerberus.",
-            "Cerberus paene necavit Grumio.",
+            "Grumio paene necavit Cerberum.",
+            "Cerberus paene necavit Grumionem.",
             "Caecilius Cerberum vituperabat.",
-            "actores sunt necaverunt canes."
+            "actores sunt necaverunt canem."
         ],
         0,
         "cerberus.gif"
